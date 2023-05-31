@@ -2,7 +2,7 @@
   <a href="https://www.python.org/" target="blank"><img src="https://www.pngmart.com/files/7/Python-PNG-Image.png" width="200" alt="Python Logo"/></a>
 </p>
 
-# Machine Learning
+# Titanic - Machine Learning
 
 El programa revisa la base de datos de los pasajeros del Titanic, realiza un análisis de los sobrevivientes, identificando que carácteristicas son las más favorables para sobrevivir al hundimiento del barco.
 
